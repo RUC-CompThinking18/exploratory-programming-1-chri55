@@ -30,3 +30,4 @@ cubed(cube);
 //Test tres
 var result = cubed(10);
 console.log("Result of function `cubed` on `10` is " + result);
+//change
